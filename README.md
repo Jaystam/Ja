@@ -25,3 +25,18 @@ ik wist eigenlijk niet heel veel van programeren in hetr begin van school, maar 
 + waarvan zou je nog meer willen weten
 
 ik zou graag meer willen weten over pyhton waarvoor ik alles kan gebruiken en wat de mogelijk heden zijn
+
+## Tim
+
++ wat heb ik met deze lessen nieuw geleerd?
+
+niet veel
+hoe je met git werkt
+
++ wat wist ik al?
+
+hoe je een branch aan maakt 
+
++ waarvan zou ik nog meer willen weten?
+
+weet ik niet, hoe je fouten oplost
